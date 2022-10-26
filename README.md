@@ -1,3 +1,6 @@
+1. create react app
+
+2. render and filter
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
